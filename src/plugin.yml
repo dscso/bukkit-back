@@ -1,0 +1,11 @@
+name: back
+description: Go back to last death
+version: 1.0
+Author: Jurek
+
+main: back.main
+
+commands:
+    back:
+        description: Go back to last death
+        usage: /<command>
